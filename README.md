@@ -12,5 +12,5 @@ Algumas vantagens:
 - Comunicação (Permite que os sistemas se comuniquem entre si). - LIberdade de Escolha. 
 <h3>Comandos</h3>
 - DDL: Linguagem de definição de Dados. Perimite a manipulação das estruturas dos bancos de dados. Criação de banco, tabela, alterar índice...
-- DML: Linguagem de Manipulação de Dados. Tem como objetivo gerenciar os dados. Incluir, alterar e excluir informações. Além de consultas.
+- DML: Linguagem de Manipulação de Dados. Tem como objetivo gerenciar os dados. Incluir, alterar e excluir informações. Além de consultas. 
 - DCL: Linguagem de controle de dados. Permite adm o banco de dados, no controle de acesso, gerenciar usuário, a nível de estrutura. 
