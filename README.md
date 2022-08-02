@@ -19,5 +19,4 @@ Algumas vantagens:
 - DCL: Linguagem de controle de dados. Permite adm o banco de dados, no controle de acesso, gerenciar usuário, a nível de estrutura. 
 
 <h1>MySQL</h1>
-<br>
 <h3>História</h3>
