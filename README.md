@@ -11,6 +11,7 @@ Algumas vantagens:
 - Aprendizado. - Portabilidade (Facilidade em migrar sistemas). - Longevidade (Garantia que funcionarão por muitos anos) 
 - Comunicação (Permite que os sistemas se comuniquem entre si). - LIberdade de Escolha. 
 <h3>Comandos</h3>
+
 - DDL: Linguagem de definição de Dados. Perimite a manipulação das estruturas dos bancos de dados. Criação de banco, tabela, alterar índice...
 
 - DML: Linguagem de Manipulação de Dados. Tem como objetivo gerenciar os dados. Incluir, alterar e excluir informações. Além de consultas.
