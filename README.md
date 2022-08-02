@@ -10,3 +10,4 @@ A forma como interage com a segurança.
 Algumas vantagens:
 - Aprendizado. - Portabilidade (Facilidade em migrar sistemas). - Longevidade (Garantia que funcionarão por muitos anos) 
 - Comunicação (Permite que os sistemas se comuniquem entre si). - LIberdade de Escolha. 
+<h3>Comandos</h3>
