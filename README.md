@@ -23,3 +23,5 @@ Algumas vantagens:
 - View -> Comporta-se como uma tabela, embora já possua uma consulta, agrupando informações e etc. Consultas que podem conter várias tabelas. 
 - Procedures -> Programas para manipular dados do banco.
 - Trigger -> alerta programada caso aconteça alguma coisa. 
+SELECT * FROM CITY (Selecionando todo mundo da tabela city) 
+* -> Todo Mundo 
