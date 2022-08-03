@@ -33,3 +33,4 @@ create_specification:
        [DEFAULT] CHARACTER SET [=] charset_name
    |   [DEFAULT] COLLATE [=] collation_name
    |   DEFAULT ENCRYPTION [=] {'Y' | 'N'}`
+![syntaxmysql](https://user-images.githubusercontent.com/101754313/182714455-35199b61-36d9-4532-9c29-64f44b2e42a2.png)
