@@ -28,3 +28,5 @@ SELECT * FROM CITY (Selecionando todo mundo da tabela city)
 <h1><strong>CREATE DATABASE Syntax</strong></h1>
 
 ![syntaxmysql](https://user-images.githubusercontent.com/101754313/182714455-35199b61-36d9-4532-9c29-64f44b2e42a2.png)
+
+`OBS:`
