@@ -25,3 +25,4 @@ Algumas vantagens:
 - Trigger -> alerta programada caso aconteça alguma coisa. 
 SELECT * FROM CITY (Selecionando todo mundo da tabela city) 
 * -> Todo Mundo 
+<h1><strong>CREATE DATABASE Syntax</strong></h1>
