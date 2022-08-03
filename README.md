@@ -29,4 +29,4 @@ SELECT * FROM CITY (Selecionando todo mundo da tabela city)
 
 ![syntaxmysql](https://user-images.githubusercontent.com/101754313/182714455-35199b61-36d9-4532-9c29-64f44b2e42a2.png)
 
-`OBS:`
+`OBS:`Arquivo my.ini é um arquivo de inicialização do mysql. Dentro dele possui uma série de variáveis de ambiente. Inclusive o diretório criado vai para os arquivos. 
