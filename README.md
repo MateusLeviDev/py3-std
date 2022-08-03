@@ -26,11 +26,4 @@ Algumas vantagens:
 SELECT * FROM CITY (Selecionando todo mundo da tabela city) 
 * -> Todo Mundo 
 <h1><strong>CREATE DATABASE Syntax</strong></h1>
-`CREATE {DATABASE | SCHEMA} [IF NOT EXIST] db_name
-       [create_specification] ...
-       
-create_specification:
-       [DEFAULT] CHARACTER SET [=] charset_name
-   |   [DEFAULT] COLLATE [=] collation_name
-   |   DEFAULT ENCRYPTION [=] {'Y' | 'N'}`
 ![syntaxmysql](https://user-images.githubusercontent.com/101754313/182714455-35199b61-36d9-4532-9c29-64f44b2e42a2.png)
