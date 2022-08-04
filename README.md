@@ -34,3 +34,7 @@ SELECT * FROM CITY (Selecionando todo mundo da tabela city)
 
 <h1>STRINGS</h1>
 <h4>Atributos dos campos númericos</h4> 
+Signed ou Unsigned: vai possuir ou não sinal no número. 
+Zerofill - preenche com zeros os espaços.
+auto_increment - sequência auto incrementada. (Ex: 1, 2, 3...)
+`OBS:`ERROS DE AUTO OF RANGE vão ocorrer quando os valores estourarem os limites. 
