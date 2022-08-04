@@ -47,5 +47,12 @@ VARCHAR - Cadeia de caracteres com valor variado (de 0 a 255). <br>
 (EX: VARCHAR (4) - "aa" - "aa" | Irá armazenar somente os caracteres indicados. Nesse caso apenas 2.) <br<
 BINARY - Conceito semelhante dos indicados acima. A dff fica no quesito que não são os caracteres que são gravados, mas sim os bystes. <br>
 VARBINARY - Mesma vibe. <br> 
+BLOB - Binário longo. [TINYBLOB; BLOB; MEDIUMBLOB; LONGBLOB] <br>
+TEXT - Texto longo. [TINYTEXT; TEXT; MEDIUMTEXT; LONGTEXT] <br> 
+ENUM - Definidas opções. <br>
+SET e COLLATE - Que tipo de conjunto de caracteres serão suportados. <br>
+
+<h4>SPACIAL<h4> 
+GEOMETRY; POINT; LINESTRING; POLYGON
 
 
