@@ -37,4 +37,5 @@ SELECT * FROM CITY (Selecionando todo mundo da tabela city)
 Signed ou Unsigned: vai possuir ou não sinal no número. 
 Zerofill - preenche com zeros os espaços.
 auto_increment - sequência auto incrementada. (Ex: 1, 2, 3...)
+<br>
 `OBS:` ERROS DE AUTO OF RANGE vão ocorrer quando os valores estourarem os limites. 
