@@ -31,3 +31,6 @@ SELECT * FROM CITY (Selecionando todo mundo da tabela city)
 
 `OBS:`Arquivo my.ini é um arquivo de inicialização do mysql. Dentro dele possui uma série de variáveis de ambiente. Inclusive o diretório criado vai para os arquivos. <br>
 `OBS:` Para apagar usar o comando DROP {DATABASE | SCHEMA} [IF EXIST] db_name
+
+<h1>STRINGS</h1>
+<h4>Atributos dos campos númericos</h4> 
