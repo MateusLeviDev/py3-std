@@ -40,3 +40,4 @@ auto_increment - sequência auto incrementada. (Ex: 1, 2, 3...)
 <br>
 
 `OBS:` ERROS DE AUTO OF RANGE vão ocorrer quando os valores estourarem os limites. 
+<h4>STRINGS</h4>
