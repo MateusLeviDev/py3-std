@@ -41,10 +41,11 @@ auto_increment - sequência auto incrementada. (Ex: 1, 2, 3...)
 
 `OBS:` ERROS DE AUTO OF RANGE vão ocorrer quando os valores estourarem os limites. 
 <h4>STRINGS</h4>
-CHAR - Cadeia de caracteres com valor fixo (o a 255).
-VARCHAR - Cadeia de caracteres com valor variado (de 0 a 255).
-(EX: CHAR(4) - "aa" - "  aa" | Ou seja, o que faltar no valor do campo é preenchido com valores vazios.)
-(EX: VARCHAR (4) - "aa" - "aa" | Irá armazenar somente os caracteres indicados. Nesse caso apenas 2.) 
-BINARY - Conceito semelhante dos indicados acima. A dff fica no quesito que não são os caracteres que são gravados, mas sim os bystes.
-VARBINARY - Mesma vibe. 
+CHAR - Cadeia de caracteres com valor fixo (o a 255). <br>
+VARCHAR - Cadeia de caracteres com valor variado (de 0 a 255). <br>
+(EX: CHAR(4) - "aa" - "  aa" | Ou seja, o que faltar no valor do campo é preenchido com valores vazios.) <br>
+(EX: VARCHAR (4) - "aa" - "aa" | Irá armazenar somente os caracteres indicados. Nesse caso apenas 2.) <br<
+BINARY - Conceito semelhante dos indicados acima. A dff fica no quesito que não são os caracteres que são gravados, mas sim os bystes. <br>
+VARBINARY - Mesma vibe. <br> 
+
 
