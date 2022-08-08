@@ -56,5 +56,6 @@ SET e COLLATE - Que tipo de conjunto de caracteres serão suportados. <br>
 GEOMETRY; POINT; LINESTRING; POLYGON
 
 <h4>CHEAT</h4>
+ 
 ![mysqlchet](https://user-images.githubusercontent.com/101754313/183474880-e27d8559-ba5b-4cf5-9208-b48868a0109f.png)
 
