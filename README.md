@@ -58,4 +58,9 @@ GEOMETRY; POINT; LINESTRING; POLYGON
 <h4>CHEAT</h4>
  
 ![mysqlchet](https://user-images.githubusercontent.com/101754313/183474880-e27d8559-ba5b-4cf5-9208-b48868a0109f.png)
+ 
+ More about
+ 
+ ![mysqlcheat2](https://user-images.githubusercontent.com/101754313/183475088-0ea3ed17-5fdf-45ad-86f1-2e396c62bc50.png)
+
 
