@@ -62,5 +62,11 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  More about
  
  ![mysqlcheat2](https://user-images.githubusercontent.com/101754313/183475088-0ea3ed17-5fdf-45ad-86f1-2e396c62bc50.png)
+ 
+ <br> 
+ 
+ - comando para inserir dados: insert
+ 
+ `obs:` DENTRO DE VALUES A ORDEM IMPORTA. SEGUINDO A RESPECTIVA SEQUÊNCIA. 
 
 
