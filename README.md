@@ -68,5 +68,10 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - comando para inserir dados: insert
  
  `obs:` DENTRO DE VALUES A ORDEM IMPORTA. SEGUINDO A RESPECTIVA SEQUÊNCIA. 
+ <br>
+ 
+ - quando inserir um dado que é uma string deve-se colocar aspas simples. 
+ - já no caso de ser um número (float, por exemplo) não precisa colocar aspas. 
+ - comando UPDATE altera dados da tabela. UPDATE nome_tabela SET os_campos = 'produto'. Logo em seguida usar WHERE deixando claro qual produto. 
 
 
