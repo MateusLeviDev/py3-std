@@ -74,5 +74,5 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - já no caso de ser um número (float, por exemplo) não precisa colocar aspas. 
  - comando UPDATE altera dados da tabela. UPDATE nome_tabela SET os_campos = 'produto'. Logo em seguida usar WHERE deixando claro qual produto.
  
-`obs:` Para modificar sem uso de chave primária -> WORKBENCH PREF - SQL EDITOR - SAFE UPDATES (DESMARCAR CAMPO) 
+`obs:` Para modificar sem uso de chave primária -> WORKBENCH PREF - SQL EDITOR - SAFE UPDATES (DESMARCAR CAMPO).
 
