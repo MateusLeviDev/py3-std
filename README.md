@@ -75,4 +75,7 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - comando UPDATE altera dados da tabela. UPDATE nome_tabela SET os_campos = 'produto'. Logo em seguida usar WHERE deixando claro qual produto.
  
 `obs:` Para modificar sem uso de chave primária -> WORKBENCH PREF - SQL EDITOR - SAFE UPDATES (DESMARCAR CAMPO).
+ <br>
+ 
+ - Incluir uma chave primária em uma tabela que já existe: ALTER TABLE (sinaliza que pode alterar uma propriedade de uma tabela que existe).
 
