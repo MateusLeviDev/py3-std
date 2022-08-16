@@ -80,4 +80,7 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - Incluir uma chave primária em uma tabela que já existe: ALTER TABLE (sinaliza que pode alterar uma propriedade de uma tabela que existe).
  - Criar uma nova coluna também pelo ALTER TABLE {NOMETABLE} ADD COLUMN {NOVACOLUNA};
  - Campo lógico e de Data: 0/1 | Data de nasc usa ''. (ex: '1999-08-04')
+ 
+ `BIZU:` EXEMPLO > SELECT CPF, NOME FROM tbcliente LIMIT 5 < 
+ Indica as colunas p/ visualizar limitando em 5 o número de informações. 
 
