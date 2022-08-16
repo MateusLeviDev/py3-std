@@ -82,5 +82,11 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - Campo lógico e de Data: 0/1 | Data de nasc usa ''. (ex: '1999-08-04')
  
  `BIZU:` EXEMPLO > SELECT CPF, NOME FROM tbcliente LIMIT 5 < 
+ <br>
  Indica as colunas p/ visualizar limitando em 5 o número de informações. 
-
+<br>
+ SELECT CPF, NOME FROM tbcliente;
+ <br> 
+ SELECT CPF AS CPF_CLIENTE, NOME AS NOME_CLIENTE FROM tbcliente;
+ <br>
+ Vale dizer também que a ordem de info não importa. 
