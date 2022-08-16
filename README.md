@@ -90,3 +90,7 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  SELECT CPF AS CPF_CLIENTE, NOME AS NOME_CLIENTE FROM tbcliente;
  <br>
  Vale dizer também que a ordem de info não importa. 
+ <br>
+ SELECT * FROM tbcliente WHERE IDADE > 22 ||| SELECT * FROM tbcliente WHERE < 22 ||| <= / >= / <>(diferente no SQL)
+ <br> 
+ `BIZU:` Internamente o float é um ponto flutuante, dessa forma não consegue achar exatamente o resultado, utilizando o '='
