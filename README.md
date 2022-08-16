@@ -30,7 +30,7 @@ SELECT * FROM CITY (Selecionando todo mundo da tabela city)
 ![syntaxmysql](https://user-images.githubusercontent.com/101754313/182714455-35199b61-36d9-4532-9c29-64f44b2e42a2.png)
 
 `OBS:`Arquivo my.ini é um arquivo de inicialização do mysql. Dentro dele possui uma série de variáveis de ambiente. Inclusive o diretório criado vai para os arquivos. <br>
-`OBS:` Para apagar usar o comando DROP {DATABASE | SCHEMA} [IF EXIST] db_name
+`OBS:` Para apagar usar o comando DROP {DATABASE | SCHEMA} [IF EXIST] db_name. DELETE usado para dados dentro das columns. 
 
 <h1>STRINGS</h1>
 <h4>Atributos dos campos númericos</h4> 
@@ -78,4 +78,6 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  <br>
  
  - Incluir uma chave primária em uma tabela que já existe: ALTER TABLE (sinaliza que pode alterar uma propriedade de uma tabela que existe).
+ - Criar uma nova coluna também pelo ALTER TABLE {NOMETABLE} ADD COLUMN {NOVACOLUNA};
+ - Campo lógico e de Data: 0/1 | Data de nasc usa ''. (ex: '1999-08-04')
 
