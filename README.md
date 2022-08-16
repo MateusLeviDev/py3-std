@@ -93,4 +93,5 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  <br>
  SELECT * FROM tbcliente WHERE IDADE > 22 ||| SELECT * FROM tbcliente WHERE < 22 ||| <= / >= / <>(diferente no SQL)
  <br> 
- `BIZU:` Internamente o float é um ponto flutuante, dessa forma não consegue achar exatamente o resultado, utilizando o '='
+ `BIZU:` Internamente o float é um ponto flutuante, dessa forma não consegue achar exatamente o resultado, utilizando o '=' <br>
+ Pode-se achar como por exemplo: SELECT * FROM tbproduto WHERE PRECO_LISTA BETWEEN 16.007 AND 16.009; 
