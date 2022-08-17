@@ -110,10 +110,13 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  <br>
  LIMIT fica smp no final da linha. (ex: LIMIT 2,3) OU SEJA A PARTIR DO 2 O BANCO PEGA OS PRÓXIMOS 3. 
  <h3>ORDER BY</h3>
+ 
  - Apresenta o resultado da consulta ordenado pelo campo determinado no ORDER BY. 
  - O comando ordena do menor para o maior. Podendo também determinar a direção da ordenação. DESC (Descendente).
  - Podendo também selecionar 2 campos como critério de selação. ORDER BY campo1, campo2.
+ <br<
  <h3>AGRUPAR A RESPOSTA</h3> 
+ 
  - Juntar campos repetidos, no caso de campos numéricos, quando essa junção é feita, pode-se aplicar uma fórmula matemática (SOMA, MÉDIA, MAX, MIN...)
  - SELECT <campos> FROM TAB GROUP BY CAMPO
  - Apresenta o result agrupando valores numéricos por uma chave de critério. 
