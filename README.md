@@ -103,5 +103,9 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  <br>
  X = A AND Y = B (SE TODAS AS EXPRESSÕES FOREM VDD A EXPRESSÃO COMPLETA SERÁ)
  <br>
- 
- 
+ <h3>DISTINCT</h3>
+ - Irá retornar somente linhas com valores diferentes.
+ `ex:`SELECT DISTINCT * FROM TABELA 
+ `ex:`Procurando quais são os bairros da cidade do rj que possuem clientes >>> SELECT DISTINCT BAIRRO FROM TABELA_CLIENTES WHERE CIDADE = 'RIO DE JANEIRO';
+ <br>
+ LIMIT fica smp no final da linha. (ex: LIMIT 2,3) OU SEJA A PARTIR DO 2 O BANCO PEGA OS PRÓXIMOS 3. 
