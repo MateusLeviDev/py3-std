@@ -104,6 +104,7 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  X = A AND Y = B (SE TODAS AS EXPRESSÕES FOREM VDD A EXPRESSÃO COMPLETA SERÁ)
  <br>
  <h3>DISTINCT</h3>
+ 
  - Irá retornar somente linhas com valores diferentes.
  `ex:`SELECT DISTINCT * FROM TABELA 
  `ex:`Procurando quais são os bairros da cidade do rj que possuem clientes >>> SELECT DISTINCT BAIRRO FROM TABELA_CLIENTES WHERE CIDADE = 'RIO DE JANEIRO';
@@ -122,3 +123,8 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - Apresenta o result agrupando valores numéricos por uma chave de critério. 
  `ex:`Queremos agrupar pelo campo x e somar os valores em y. dessa forma, SELECT X SUM(Y) FROM TAB GROUP BY X.
  `BIZU` SUM: SOMA || MAX || MIN || AVG: MÉDIA || COUNT: CONTA OCORRÊNCIAS, CONTA NÚMERO DE LINHAS 
+ <br>
+ <h3>HAVING</h3> 
+ 
+ - É um filtro, mas se aplica não sobre o SELECT mas sobre o result de um SELECT que é agrupado. 
+ - SELECT X, SUM(Y) FROM TAB GROUP BY X HAVING SUM(Y) >= 6 (EXEMPLO)           
