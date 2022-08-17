@@ -94,4 +94,14 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  SELECT * FROM tbcliente WHERE IDADE > 22 ||| SELECT * FROM tbcliente WHERE < 22 ||| <= / >= / <>(diferente no SQL)
  <br> 
  `BIZU:` Internamente o float é um ponto flutuante, dessa forma não consegue achar exatamente o resultado, utilizando o '=' <br>
- Pode-se achar como por exemplo: SELECT * FROM tbproduto WHERE PRECO_LISTA BETWEEN 16.007 AND 16.009; 
+ Pode-se achar como por exemplo: SELECT * FROM tbproduto WHERE PRECO_LISTA BETWEEN 16.007 AND 16.009; <br>
+ `BIZU:` Porcentagem: 10% = 0.10 / 20% = 0.20 <br>
+ SELECT * FROM tbcliente WHERE YEAR(DATA_NASCIMENTO) = 1995; SELECT * FROM tbcliente MONTH(DATA_NASCIMENTO) = 10;
+ <br>
+ <h4>CONSULTAS CONDICIONAIS</h4>
+ X = A OR Y = B (SE UMA FOR VDD A EXPRESSÃO COMPLETA SERÁ)
+ <br>
+ X = A AND Y = B (SE TODAS AS EXPRESSÕES FOREM VDD A EXPRESSÃO COMPLETA SERÁ)
+ <br>
+ 
+ 
