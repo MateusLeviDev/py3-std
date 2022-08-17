@@ -109,3 +109,13 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  `ex:`Procurando quais são os bairros da cidade do rj que possuem clientes >>> SELECT DISTINCT BAIRRO FROM TABELA_CLIENTES WHERE CIDADE = 'RIO DE JANEIRO';
  <br>
  LIMIT fica smp no final da linha. (ex: LIMIT 2,3) OU SEJA A PARTIR DO 2 O BANCO PEGA OS PRÓXIMOS 3. 
+ <h3>ORDER BY</h3>
+ - Apresenta o resultado da consulta ordenado pelo campo determinado no ORDER BY. 
+ - O comando ordena do menor para o maior. Podendo também determinar a direção da ordenação. DESC (Descendente).
+ - Podendo também selecionar 2 campos como critério de selação. ORDER BY campo1, campo2.
+ <h3>AGRUPAR A RESPOSTA</h3> 
+ - Juntar campos repetidos, no caso de campos numéricos, quando essa junção é feita, pode-se aplicar uma fórmula matemática (SOMA, MÉDIA, MAX, MIN...)
+ - SELECT <campos> FROM TAB GROUP BY CAMPO
+ - Apresenta o result agrupando valores numéricos por uma chave de critério. 
+ `ex:`Queremos agrupar pelo campo x e somar os valores em y. dessa forma, SELECT X SUM(Y) FROM TAB GROUP BY X.
+ `BIZU` SUM: SOMA || MAX || MIN || AVG: MÉDIA || COUNT: CONTA OCORRÊNCIAS, CONTA NÚMERO DE LINHAS 
