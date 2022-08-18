@@ -137,4 +137,12 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - Caso nenhuma cond funcione, ultiliza-se o 'ELSE', ou seja, ELSE valor ELSE.  
  
  ![image](https://user-images.githubusercontent.com/101754313/185488216-5a628d40-4126-4175-b645-14309f4b79ea.png)
+ 
+ <br> 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/185501854-01507417-1a7c-4e7a-8a1c-903779944cee.png)
+ <br>
+ 
+ 
+
 
