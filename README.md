@@ -127,4 +127,14 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  <h3>HAVING</h3> 
  
  - É um filtro, mas se aplica não sobre o SELECT mas sobre o result de um SELECT que é agrupado. 
- - SELECT X, SUM(Y) FROM TAB GROUP BY X HAVING SUM(Y) >= 6 (EXEMPLO)           
+ - SELECT X, SUM(Y) FROM TAB GROUP BY X HAVING SUM(Y) >= 6 (EXEMPLO)   
+ 
+ <h3>CLASSIFICAR RESULTADOS (CASE)</h3>
+ 
+ - Se acontesse determinada condição eu faço determinada coisa. 
+ - Fazemos um teste em um ou mais campos e, dependendo do resultado, teremos outro valor.
+ `ex:`CASE WHEN <COND1> THEN <VALOR1>...
+ - Caso nenhuma cond funcione, ultiliza-se o 'ELSE', ou seja, ELSE valor ELSE.  
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/185488216-5a628d40-4126-4175-b645-14309f4b79ea.png)
+
