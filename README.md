@@ -145,8 +145,9 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  classificando os nascidos antes de 1990 (velhos), entre 1990 e 1995 e acima de 1995. Listando nome e esta classficação. 
  ![image](https://user-images.githubusercontent.com/101754313/185505587-2c3db106-107e-45d8-8935-c5f920fabd8d.png)
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/185514466-a0a80676-cf1c-4430-9f60-24ef2809e2e9.png)
 
- 
- 
 
 
