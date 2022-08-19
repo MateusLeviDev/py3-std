@@ -148,6 +148,8 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  <br>
  
  ![image](https://user-images.githubusercontent.com/101754313/185514466-a0a80676-cf1c-4430-9f60-24ef2809e2e9.png)
-
-
+ 
+ - Obtendo o faturamento anual da empresa, levando em consideração o valor das vendas consiste em mult quant pelo preço,
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/185636761-6ecd2560-3f0f-4e95-a7c6-c7a072c93c7f.png)
 
