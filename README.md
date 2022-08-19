@@ -153,3 +153,9 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/185636761-6ecd2560-3f0f-4e95-a7c6-c7a072c93c7f.png)
 
+ <h3>UNION</h3>
+ 
+ - Comando que junta duas consultas (duas ou mais tabelas).
+ - Colunas parecidas e mesmos tipos de colunas para realizar.
+ - UNION ALL não se aploca o DISTINCT (linhas com valores diferentes).
+ - Pode-se simular um left um right com UNION no meio, para "aplicar" um FULL JOIN.
