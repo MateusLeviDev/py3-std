@@ -159,3 +159,17 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - Colunas parecidas e mesmos tipos de colunas para realizar.
  - UNION ALL não se aploca o DISTINCT (linhas com valores diferentes).
  - Pode-se simular um left um right com UNION no meio, para "aplicar" um 'FULL JOIN'.
+ 
+ <h3>SUBCONSULTAS</h3>
+ 
+ - Pode-se usar uma subconsulta dentro de uma consulta.
+ - SELECT X, Y FROM TAB1 WHERE Y IN (1, 2)
+ - Também trabalha com valores diferentes 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186309330-da5e1c05-ef18-4c7d-91e0-4da0970de5aa.png)
+
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186309880-c559e49e-3f72-4187-b2eb-20447af1205b.png)
+
+ 
