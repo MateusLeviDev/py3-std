@@ -158,4 +158,4 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - Comando que junta duas consultas (duas ou mais tabelas).
  - Colunas parecidas e mesmos tipos de colunas para realizar.
  - UNION ALL não se aploca o DISTINCT (linhas com valores diferentes).
- - Pode-se simular um left um right com UNION no meio, para "aplicar" um FULL JOIN.
+ - Pode-se simular um left um right com UNION no meio, para "aplicar" um 'FULL JOIN'.
