@@ -172,5 +172,8 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/186309880-c559e49e-3f72-4187-b2eb-20447af1205b.png)
 
+ - abaixo segue a quantidade de cpf cadastrados no ano de 2016 que contenha mais de 2000 nf: 
  
+ ![image](https://user-images.githubusercontent.com/101754313/186311901-72a2dc69-679e-418f-a9e9-64bfdc097db9.png)
+
  
