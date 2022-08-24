@@ -172,5 +172,5 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/186309880-c559e49e-3f72-4187-b2eb-20447af1205b.png)
 
- - exemplo 
+ 
  
