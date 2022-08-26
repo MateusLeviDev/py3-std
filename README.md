@@ -184,11 +184,19 @@ GEOMETRY; POINT; LINESTRING; POLYGON
 
 <h3>STRINGS</h3>
 
-- Importante leitura de documentação. Abaixo um exemplo: 
+- Importante leitura de documentação. Abaixo um exemplo de uso: 
 
 ![image](https://user-images.githubusercontent.com/101754313/186976361-d5ddf489-7430-42d0-9ebb-357ca79c444d.png)
  
  - Retornando: 
  
  ![image](https://user-images.githubusercontent.com/101754313/186976478-70e45018-cf0f-4939-89ab-e8651d1a81c0.png)
+
+ <h3>FUNÇÕES DE DATAS</h3>
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186978911-395814eb-2a37-453d-b7b8-e402c4b5cba4.png)
+
+ - Resultando: 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186978971-7d3b5669-c12f-4214-bc90-34bd078ba218.png)
 
