@@ -187,3 +187,8 @@ GEOMETRY; POINT; LINESTRING; POLYGON
 - Importante leitura de documentação. Abaixo um exemplo: 
 
 ![image](https://user-images.githubusercontent.com/101754313/186976361-d5ddf489-7430-42d0-9ebb-357ca79c444d.png)
+ 
+ - Retornando: 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186976478-70e45018-cf0f-4939-89ab-e8651d1a81c0.png)
+
