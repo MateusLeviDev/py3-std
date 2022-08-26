@@ -206,4 +206,14 @@ GEOMETRY; POINT; LINESTRING; POLYGON
 
  <h3>CONVERÇÃO DE DADOS</h3>
  
+ - Visualização de documentação. 
+ - %m/%c/%y for example. gmail
+ - Exemplo resultado de faruramento para cada cliente:
  
+ ![image](https://user-images.githubusercontent.com/101754313/186984723-b05d8ba1-edbe-4bd8-9e93-4533a3a08b58.png)
+ 
+ - Resultando: 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186984775-69806eb7-b1ba-49e9-b24d-e0bac58ddfd9.png)
+
+
