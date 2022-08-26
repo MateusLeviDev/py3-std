@@ -192,11 +192,18 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/186976478-70e45018-cf0f-4939-89ab-e8651d1a81c0.png)
 
- <h3>FUNÇÕES DE DATAS</h3>
+ <h3>FUNÇÕES DE DATAS e MATEMÁTICAS</h3>
  
  ![image](https://user-images.githubusercontent.com/101754313/186978911-395814eb-2a37-453d-b7b8-e402c4b5cba4.png)
 
  - Resultando: 
  
  ![image](https://user-images.githubusercontent.com/101754313/186978971-7d3b5669-c12f-4214-bc90-34bd078ba218.png)
+ 
+ - Valor do imposto pago no ano de 2016 arredondando para o menor inteiro: 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/186982994-535d9860-b4bf-49b1-b2e3-6353e21c714c.png)
 
+ <h3>CONVERÇÃO DE DADOS</h3>
+ 
+ 
