@@ -181,3 +181,9 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  - A view é uma tabela lógica, resultado de uma consulta, que pode ser usada depois de qualquer outra consulta. 
  - Úteis quando se quer compartilhar para alguém externo as informações (em parte) de nosso banco.
  - WorkB ou pelo assistente. (AULA 4) 
+
+<h3>STRINGS</h3>
+
+- Importante leitura de documentação. Abaixo um exemplo: 
+
+![image](https://user-images.githubusercontent.com/101754313/186976361-d5ddf489-7430-42d0-9ebb-357ca79c444d.png)
