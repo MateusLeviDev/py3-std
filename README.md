@@ -216,4 +216,10 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/186984775-69806eb7-b1ba-49e9-b24d-e0bac58ddfd9.png)
 
+- Exemplo: obtendo volume total de vendas para cada cliente dentro de 1 mês 
+- Começamos agrupando as vendas, tendo início pelas datas. 
+- Dessa forma, juntando os dados, uma vez que 1 cpf realizou diversas compras.
+- SUM é o método usado para agrupamento. 
+
+![image](https://user-images.githubusercontent.com/101754313/187100266-5024ad4a-499d-4c3e-8c8b-988012cb94a5.png)
 
