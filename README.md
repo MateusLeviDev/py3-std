@@ -222,4 +222,9 @@ GEOMETRY; POINT; LINESTRING; POLYGON
 - SUM é o método usado para agrupamento. 
 
 ![image](https://user-images.githubusercontent.com/101754313/187100266-5024ad4a-499d-4c3e-8c8b-988012cb94a5.png)
+ 
+ - Resultando em:
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/187100296-18df3e0f-0e95-448a-aec3-0381c983eda2.png)
+
 
