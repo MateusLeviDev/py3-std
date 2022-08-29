@@ -236,4 +236,13 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/187101480-04a0c012-37de-4ae3-bc95-1de7996829e0.png)
 
+- Próximo exemplo será a tabela de vendas por sabor: 
+ 
+ `bizu`: juntar as 3 tabelas (prod, nf, inf)
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/187106593-f7010570-dfed-4449-9b41-326de9b54038.png)
+
+ - resultado:
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/187106631-94dfc6bf-2e35-440d-812a-3604c40d5c4e.png)
 
