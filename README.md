@@ -221,10 +221,19 @@ GEOMETRY; POINT; LINESTRING; POLYGON
 - Dessa forma, juntando os dados, uma vez que 1 cpf realizou diversas compras.
 - SUM é o método usado para agrupamento. 
 
-![image](https://user-images.githubusercontent.com/101754313/187100266-5024ad4a-499d-4c3e-8c8b-988012cb94a5.png)
+![image](https://user-images.githubusercontent.com/101754313/187100348-edacaa1c-e1db-4c69-bd13-dfcf9679e694.png)
  
  - Resultando em:
  
  ![image](https://user-images.githubusercontent.com/101754313/187100296-18df3e0f-0e95-448a-aec3-0381c983eda2.png)
+
+ - Agora iremos comparar duas tabelas (VENDAS MENSAL POR CLIENTE E A DE LIMITE DE COMPRAS)
+ - utlizando subqueries:
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/187101467-82061ed4-749d-43c0-a628-0f8389c9542a.png)
+ 
+ - Resultando em: 
+ 
+ ![image](https://user-images.githubusercontent.com/101754313/187101480-04a0c012-37de-4ae3-bc95-1de7996829e0.png)
 
 
