@@ -19,6 +19,7 @@ Algumas vantagens:
 - DCL: Linguagem de controle de dados. Permite adm o banco de dados, no controle de acesso, gerenciar usuário, a nível de estrutura. 
 
 <h1>MySQL</h1>
+
 - Banco de Dados, possui com entidade principal a Tabela (No momento que é criado uma tabela, já é aplicado certas definições que a mesma terá, ouy seja, dizendo quantos campos ela vai ter e o tipo). Existe um limite máximo de campos, sempre tendo o mesmo tipo. Já registro ou linhas, pode-se ter uma quantidade infinita. 
 - View -> Comporta-se como uma tabela, embora já possua uma consulta, agrupando informações e etc. Consultas que podem conter várias tabelas. 
 - Procedures -> Programas para manipular dados do banco.
