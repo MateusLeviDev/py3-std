@@ -6,10 +6,14 @@
  
 `ESTUDOS EM: `
  
+```sh
+
  - PL/SQL
  - MYSQL
  - ORACLE 
  - SQL SERVER
+
+```
  
  
 <h1>SQL</h1>
