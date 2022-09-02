@@ -6,8 +6,6 @@
  
  ´ESTDUSO EM: ´
  
-
- 
  - PL/SQL
  - MYSQL
  - ORACLE 
