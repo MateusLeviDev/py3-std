@@ -2,7 +2,7 @@
 <h1>ESTUDO AMPLO</h1>
 <br>
 <p>Entendendo suas mecânicas e funcionalidades. Envolvendo ideias e projetos criados com o intuito de aprofundar meus conhecimentos sobre a linguagem. 
- Aprendendo também sobre Banco de Daados Relacioanis e Não-Relacioanis. Master Branch</P>
+ Aprendendo também sobre Banco de Dados Relacioanis e Não-Relacioanis. Master Branch</P>
  
 <h4>ESTUDOS EM:</h4>
  
