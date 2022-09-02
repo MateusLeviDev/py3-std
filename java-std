@@ -3,3 +3,18 @@
 • Substituir: Replace(char, char), Replace(string, string)
 • Buscar: IndexOf, LastIndexOf
 • str.Split(" ")
+
+Operação split:
+String s = "potato apple lemon";
+String[] vect = s.split(" ");
+
+System.out.println(vect[0]);
+		System.out.println(vect[1]);
+		System.out.println(vect[2]);
+    
+Bizu comentários:
+/*  */ (mais de uma aula)
+
+// (para uma linha)
+
+> evitar o excesso de coment < 
