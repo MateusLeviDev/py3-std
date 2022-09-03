@@ -34,7 +34,7 @@
 
 
  
- > Useful resources for working with [Java](https://docs.oracle.com/en/java/javase/11/)
+ > Useful resources for working with [Java](https://github.com/Vedenin/useful-java-links)
  >  - [I. Development](#i-development) <br>
      - [1. Common frameworks and libraries](https://docs.oracle.com/en/java/javase/11/) <br>
      - [2. Web development](#2-web-development) <br>
