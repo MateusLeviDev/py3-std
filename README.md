@@ -15,11 +15,11 @@
 
 ```
  
- <h1>FUNÇÕES</h1>
- <p>JAVA</p>
+ <h1>JAVA</h1>
  
- ![IMG_1554](https://user-images.githubusercontent.com/101754313/188290026-b3f53b85-fc85-46ba-81bf-c2464343f5dc.jpeg)
+  ![IMG_1554](https://user-images.githubusercontent.com/101754313/188290026-b3f53b85-fc85-46ba-81bf-c2464343f5dc.jpeg)
 
+ <p>Funções</p>
  
  ```sh
 
