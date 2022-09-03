@@ -36,10 +36,10 @@
  
  > Useful resources for working with [Java](https://docs.oracle.com/en/java/javase/11/)
  >  - [I. Development](#i-development) <br>
-    - [1. Common frameworks and libraries](https://docs.oracle.com/en/java/javase/11/) <br>
-    - [2. Web development](#2-web-development) <br>
-    - [3. GUI](#3-gui) <br>
-    - [4. Business](#4-business) 
+     - [1. Common frameworks and libraries](https://docs.oracle.com/en/java/javase/11/) <br>
+     - [2. Web development](#2-web-development) <br>
+     - [3. GUI](#3-gui) <br>
+     - [4. Business](#4-business) 
 
 
  
