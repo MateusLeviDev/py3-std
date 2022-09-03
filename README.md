@@ -31,8 +31,17 @@
  "métodos"
 
 ```
+
+
  
- > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava)
+ > Useful resources for working with [Java](https://docs.oracle.com/en/java/javase/11/)
+ >  - [I. Development](#i-development)
+    - [1. Common frameworks and libraries](#1-common-frameworks-and-libraries)
+    - [2. Web development](#2-web-development)
+    - [3. GUI](#3-gui)
+    - [4. Business](#4-business)
+
+
  
  
 <h1>SQL</h1>
