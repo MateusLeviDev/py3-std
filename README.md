@@ -32,6 +32,8 @@
 
 ```
  
+ > Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava)
+ 
  
 <h1>SQL</h1>
 Hoje em dia todos os bancos relacionais adotam o padrão SQL. Utilizado para criação, consulta de dados, alteração, manipulação da estrutura do banco de dados. 
