@@ -10,6 +10,7 @@
 
  - PL/SQL
  - MYSQL
+ - JAVA
  - ORACLE 
  - SQL SERVER
 
