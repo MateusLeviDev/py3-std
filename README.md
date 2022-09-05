@@ -50,7 +50,7 @@
      - [4. Business](#4-business) 
      
  
- ## I. Development
+ ## I. Development.
 
 ### 1. Common frameworks and libraries
 [Up](#useful-java-links)
