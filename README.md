@@ -35,6 +35,8 @@
 
 ```
 
+![image](https://user-images.githubusercontent.com/101754313/188348621-6e5d4282-072c-4f0d-83f1-3b5a8822649a.png)
+
 
  
  > Useful resources for working with [Java](https://github.com/Vedenin/useful-java-links)
