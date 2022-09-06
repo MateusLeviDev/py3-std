@@ -5,6 +5,8 @@
 • str.Split(" ")
 
 # Operação split:
+
+
 String s = "potato apple lemon";
 String[] vect = s.split(" ");
 
