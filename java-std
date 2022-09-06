@@ -4,7 +4,7 @@
 • Buscar: IndexOf, LastIndexOf
 • str.Split(" ")
 
-# Operação split:
+###  Operação split:
 
 
 String s = "potato apple lemon";
