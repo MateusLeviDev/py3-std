@@ -11,6 +11,7 @@
  - PL/SQL
  - MYSQL
  - JAVA
+ - PYTHON
  - ORACLE 
  - SQL SERVER
 
