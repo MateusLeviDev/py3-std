@@ -1,8 +1,8 @@
 # py3-std
 <h1>ESTUDO AMPLO</h1>
 <br>
-<p>Entendendo suas mecânicas e funcionalidades. Envolvendo ideias e projetos criados com o intuito de aprofundar meus conhecimentos sobre a linguagem. 
- Aprendendo também sobre Banco de Dados Relacioanis e Não-Relacioanis. Master Branch</P>
+<p>Entendendo suas mecânicas e funcionalidades. Envolvendo ideias e projetos criados com o intuito de aprofundar meus conhecimentos sobre linguagens de programação. 
+ Aprendendo também sobre fundamentos de Banco de Dados Relacioanis e Não-Relacioanis. Master Branch</P>
  
 <h4>ESTUDOS EM:</h4>
  
