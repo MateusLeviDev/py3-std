@@ -281,7 +281,7 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/186978911-395814eb-2a37-453d-b7b8-e402c4b5cba4.png)
 
- - Resultando: 
+ - Resultando em:
  
  ![image](https://user-images.githubusercontent.com/101754313/186978971-7d3b5669-c12f-4214-bc90-34bd078ba218.png)
  
@@ -297,7 +297,7 @@ GEOMETRY; POINT; LINESTRING; POLYGON
  
  ![image](https://user-images.githubusercontent.com/101754313/186984723-b05d8ba1-edbe-4bd8-9e93-4533a3a08b58.png)
  
- - Resultando: 
+ - Resultando em:
  
  ![image](https://user-images.githubusercontent.com/101754313/186984775-69806eb7-b1ba-49e9-b24d-e0bac58ddfd9.png)
 
