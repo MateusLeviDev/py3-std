@@ -9,6 +9,7 @@
 ```sh
 
  - PL/SQL
+ - Postman
  - MYSQL
  - JAVA
  - PYTHON
